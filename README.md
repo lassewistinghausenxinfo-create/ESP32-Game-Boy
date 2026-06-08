@@ -10,12 +10,27 @@ This project features its own operating system with a main menu and saves high s
 3. **Snake:** Eat the red apples and grow as long as possible.
 4. **Space Invaders:** Shoot down the incoming alien waves.
 
-## 🛠️ Hardware Requirements
+  ## 🛠️ Hardware Requirements
 * 1x ESP32 Development Board (e.g., ESP32-WROOM-32D)
 * 1x 1.8-inch TFT Display (ST7735 Chip, SPI)
 * 6x Push Buttons
 * PCB, 6 x 8 cm Universal Prototype Board
 * Breadboard Jumper Wire Kit
+* **Optional (For Portable Power):**
+  * 1x 3.7V LiPo Battery
+  * 1x TP4056 LiPo Charging Module
+  * 1x Small Slide Switch (ON/OFF)
+
+## 🔌 Pinout (Wiring)
+
+**🔋 Battery Power Setup (Optional)**
+If you want to make the console truly portable, connect the battery and charger like this:
+* LiPo Red Wire (+) -> TP4056 `B+`
+* LiPo Black Wire (-) -> TP4056 `B-`
+* TP4056 `OUT-` -> ESP32 `GND`
+* TP4056 `OUT+` -> To one pin of the Slide Switch
+* Slide Switch (other pin) -> ESP32 `5V` (or `VIN`)
+*(Note: To charge the device, simply plug a USB cable directly into the TP4056 module!)*
 
 ## 🔌 Pinout (Wiring)
 
