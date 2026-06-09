@@ -5,6 +5,11 @@ A custom-built handheld Game Boy based on the ESP32-WROOM-32D and a 1.8-inch SPI
 
 This project features its own operating system with a main menu and saves high scores permanently on the device flash memory!
 
+<img width="1536" height="2040" alt="WhatsApp Image 2026-06-10 at 01 24 13" src="https://github.com/user-attachments/assets/22d5db5e-b645-4623-9331-e448874a2739" />
+<img width="1536" height="2040" alt="WhatsApp Image 2026-06-10 at 01 24 13 (2)" src="https://github.com/user-attachments/assets/36ede845-a8d9-470b-b88f-33bdd2d102db" />
+<img width="1536" height="2040" alt="WhatsApp Image 2026-06-10 at 01 24 13 (1)" src="https://github.com/user-attachments/assets/ff5428d9-3630-4182-88bc-975868caacc7" />
+
+
 ## 🎮 Included Games
 1. **Flappy Bird:** The classic. Dodge the pipes!
 2. **Pong:** Choose between 1-Player mode (vs. PC) or 2-Player mode (1v1 on the same device).
