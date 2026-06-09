@@ -10,6 +10,8 @@ This project features its own operating system with a main menu and saves high s
 2. **Pong:** Choose between 1-Player mode (vs. PC) or 2-Player mode (1v1 on the same device).
 3. **Snake:** Eat the red apples and grow as long as possible.
 4. **Space Invaders:** Shoot down the incoming alien waves.
+5. **TETRIS:**
+6. **Breakout:**
 
   ## 🛠️ Hardware Requirements
 * 1x ESP32 Development Board (e.g., ESP32-WROOM-32D)
