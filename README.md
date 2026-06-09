@@ -15,7 +15,7 @@ This project features its own operating system with a main menu and saves high s
 * 1x ESP32 Development Board (e.g., ESP32-WROOM-32D)
 * 1x 1.8-inch TFT Display (ST7735 Chip, SPI)
 * 6x Push Buttons
-* PCB, 6 x 8 cm Universal Prototype Board
+* PCB, 7,5 x 10 cm Universal Prototype Board
 * Breadboard Jumper Wire Kit
 * **Optional (For Portable Power):**
   * 1x 3.7V LiPo Battery
