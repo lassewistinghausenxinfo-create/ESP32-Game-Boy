@@ -23,6 +23,8 @@ This project features its own operating system with a main menu and saves high s
 
 ## 🔌 Pinout (Wiring)
 
+https://wokwi.com/projects/466386256192714753
+
 **🔋 Battery Power Setup (Optional)**
 If you want to make the console truly portable, connect the battery and charger like this:
 * LiPo Red Wire (+) -> TP4056 `B+`
