@@ -5,9 +5,9 @@ A custom-built handheld Game Boy based on the ESP32-WROOM-32D and a 1.8-inch SPI
 
 This project features its own operating system with a main menu and saves high scores permanently on the device flash memory!
 
-<img width="1536" height="2040" alt="Bild 3" src="https://github.com/user-attachments/assets/ebc8f6ed-6f4a-4e77-ab57-67abe0bc0589" />
-<img width="1536" height="2040" alt="Bild 2" src="https://github.com/user-attachments/assets/e42d420d-58f8-4fb8-83d4-eb1bbdf21316" />
-<img width="1536" height="2040" alt="Bild 1" src="https://github.com/user-attachments/assets/64556ac1-65b6-41b3-9f31-79c9fe71f475" />
+<img width="512" height="680" alt="Bild 3" src="https://github.com/user-attachments/assets/ebc8f6ed-6f4a-4e77-ab57-67abe0bc0589" />
+<img width="512" height="680" alt="Bild 2" src="https://github.com/user-attachments/assets/e42d420d-58f8-4fb8-83d4-eb1bbdf21316" />
+<img width="512" height="680" alt="Bild 1" src="https://github.com/user-attachments/assets/64556ac1-65b6-41b3-9f31-79c9fe71f475" />
 
 
 ## 🎮 Included Games
