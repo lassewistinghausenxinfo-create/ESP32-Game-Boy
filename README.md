@@ -75,4 +75,4 @@ Im README nach "Libraries" diese Sektion einfügen:
 3. Board wählen: "ESP32 Dev Module"
 4. Partition Scheme: "Default 4MB with spiffs"
 5. Die 3 Libraries installieren (Sketch → Bibliothek einbinden)
-6. sketch_jun5a.ino öffnen & hochladen
+6. ESP32-Game-Boy.ino öffnen & hochladen
