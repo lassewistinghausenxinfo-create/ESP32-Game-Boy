@@ -1,3 +1,5 @@
+<img width="1043" height="726" alt="ESP32-Game-Boy" src="https://github.com/user-attachments/assets/39fd7a91-b87c-4aee-bb74-1e946dd2eaad" />
+
 # 🕹️ ESP32 Game Boy (DIY Retro Console)
 
 A custom-built handheld Game Boy based on the ESP32-WROOM-32D and a 1.8-inch SPI TFT display. 
