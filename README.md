@@ -72,14 +72,13 @@ Programmed using the **Arduino IDE**. Requires the following libraries:
 * `Adafruit ST7735 and ST7789 Library`
 * `Preferences` (for high score saving)
 
-Im README nach "Libraries" diese Sektion einfügen:
-
 ## 🚀 Getting Started
-1. Arduino IDE installieren
-2. ESP32 Board-Support installieren:
-  → Datei → Einstellungen → Boards-URL:
-  https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-3. Board wählen: "ESP32 Dev Module"
-4. Partition Scheme: "Default 4MB with spiffs"
-5. Die 3 Libraries installieren (Sketch → Bibliothek einbinden)
-6. ESP32-Game-Boy.ino öffnen & hochladen
+
+1. Install the Arduino IDE.
+2. Install the ESP32 board support:
+   → File → Preferences → Additional Boards Manager URLs:
+   `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
+3. Select the board: **"ESP32 Dev Module"**.
+4. Set the Partition Scheme to: **"Default 4MB with spiffs"**.
+5. Install the 3 required libraries (Sketch → Include Library → Manage Libraries).
+6. Open the `ESP32-Game-Boy.ino` file and hit upload!
